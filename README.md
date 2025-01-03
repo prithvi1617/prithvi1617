@@ -9,7 +9,13 @@
 
 - 🔭 I’m currently working at **Fancraze**
 
-- 👯 I’m looking to collaborate on **Blockchain solution**
+- Technologies and Frameworks   - Nodejs, Javascript, typescript, Expressjs, Golang, etc...
+
+- Databases Wroked on           - MongoDB, Postgresql, DynamoDB, Redis.
+
+- Cloud Infrastucture worked on - Aamazon Web Services, Google Cloud.
+
+- 👯 I’m looking to collaborate on **Backend and Blockchain solution**
 
 - 📫 How to reach me **prithvichouhand9ma@gmail.com**
 
